@@ -10,6 +10,12 @@
     ],
     "persistent": false
   },
+  "icons": {
+    "16": "resources/icons/icon16.png",
+    "32": "resources/icons/icon32.png",
+    "64": "resources/icons/icon64.png",
+    "128": "resources/icons/icon128.png"
+  },
   "content_scripts": [
     {
       "matches": [
