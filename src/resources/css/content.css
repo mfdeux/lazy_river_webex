@@ -1,0 +1,26 @@
+div#lazyRiverBox {
+    width: 100%;
+    font-family: Arial;
+    text-transform: none;
+    border-spacing: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(221, 221, 221);
+    border-image: initial;
+    border-radius: 4px;
+    box-shadow: 0 0 0 4px rgba(0,0,0,.1);
+    margin: 0px 0px 10px;
+    padding: 0px 8px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+
+div.lazyRiverTitle {
+    text-align: center;
+    font-size: x-small;
+    text-transform: uppercase;
+    position: relative;
+}
+
+div.lazyRiverItem {
+  margin: 5px 0px;
+}
